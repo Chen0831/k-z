@@ -11,7 +11,7 @@
 # Description: Start or stop the ShadowsocksR server
 ### END INIT INFO
 
-# Author: Teddysun <i@teddysun.com>
+
 
 name=ShadowsocksR
 BIN=/usr/local/shadowsocks/shadowsocks/server.py
